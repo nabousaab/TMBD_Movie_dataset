@@ -18,4 +18,4 @@ df_movies['First_Genre'] = df_movies['First_Genre'].str[0]
 
 ## The question:
 **what is the code I can use to split the the studio names under Genere, whithout creating a duplication of the cost and revenue ?**
-**_especially that the number of studio names under Genre is not consitant and would create another missing values if I opted to create Genre1, Genr2, Genre3, etc ... columns 
+**_especially that the number of studio names under Genre is not consitant and would create another missing values if I opted to create Genre1, Genr2, Genre3, etc ... columns_**
