@@ -1,6 +1,6 @@
 ## Project: TMBD Movie dataset
-This data is related to movie industry, and was one of nano-degree projects. 
-The on objective was to analyze the data, clean it, and drive conclusions and attributes using the available information
+This data is related to movie industry, and is one of nano-degree projects. 
+The objective is to analyze the data, clean it, and drive conclusions and attributes using the available information
 
 
 
