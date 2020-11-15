@@ -10,7 +10,7 @@ Data Wrangling
 Exploratory Data Analysis
 Conclusions
 
-## Introduction
+## Introduction & worksheet needed
 Movie Data: In this worksheep we will try to investigate the different corollation of variables and information available. We will try to investigate relationships patterns, attributes if they are available and some findings from this excersize.
 
 ````
