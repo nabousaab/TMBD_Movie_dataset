@@ -1,4 +1,9 @@
 ## Project: TMBD Movie dataset
+This data is related to movie industry, and was one of nano-degree projects.
+The onbjective was to analyse the data, clean it, and drive conclusions and attributes using the availabe information
+
+
+
 ## Table of Contents
 Introduction
 Data Wrangling
